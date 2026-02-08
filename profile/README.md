@@ -2,7 +2,7 @@
 
 > **Plateforme de gestion complète pour activité de prothésie ongulaire**
 
-Ce projet est une solution web (PWA) conçue pour digitaliser et automatiser la gestion quotidienne du salon "Nails By Yona". Il centralise la relation client, la prise de rendez-vous et le suivi financier
+Ce projet est une solution web (PWA) conçue pour digitaliser et automatiser la gestion quotidienne du salon "Nails By Anastasie". Il centralise la relation client, la prise de rendez-vous et le suivi financier
 
 ---
 
