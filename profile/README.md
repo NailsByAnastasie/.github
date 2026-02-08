@@ -1,4 +1,4 @@
-# 💅 Nails By Yona  
+# 💅 Nails By Anastasie  
 
 > **Plateforme de gestion complète pour activité de prothésie ongulaire**
 
