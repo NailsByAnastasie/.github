@@ -1,12 +1,14 @@
 ## Hi there 👋
 
-<!--
+🇫🇷  
+Github pour le projet de prothésie ongulaire "Nails By Yona"  
 
-**Here are some ideas to get you started:**
+Création d'un projet web pour gérer les fiches clients ainsi que gérer  
+les réservations sous forme de calendrier et rappel emails  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Un suivi des achats / revenues va être prochainement ajouté  
+Ainsi qu'un partie IA qui pourra faire des pronostics pour les   
+futurs revenues ou dépenses ou la prochaines prise de rendez clients
+
+Ce projet se consstitue en 3 repositories (qui sont en private)  
+Il 
