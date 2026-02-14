@@ -8,7 +8,7 @@ Ce projet est une solution web (PWA) conçue pour digitaliser et automatiser la 
 
 ## 🚀 Fonctionnalités Clés
 
-* **Gestion Clientèle (CRM) :** Fiches clients détaillées, historique des prestations et préférences techniques
+* **Gestion Clientèle (CRM) :** Fiches clients détaillées, historique des prestations
 * **Réservations & Planning :** Calendrier interactif pour la gestion des créneaux
 * **Notifications Automatisées :** Rappels de rendez-vous par Email (via SMTP OVH)
 * **Suivi Financier :** Dashboard des revenus, suivi des achats matériels et calcul du chiffre d'affaires
