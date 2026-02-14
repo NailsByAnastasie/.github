@@ -10,7 +10,7 @@ Ce projet est une solution web (PWA) conçue pour digitaliser et automatiser la 
 
 * **Gestion Clientèle (CRM) :** Fiches clients détaillées, historique des prestations et préférences techniques
 * **Réservations & Planning :** Calendrier interactif pour la gestion des créneaux
-* **Notifications Automatisées :** Rappels de rendez-vous par Email (via SMTP OVH) pour réduire les *no-shows*
+* **Notifications Automatisées :** Rappels de rendez-vous par Email (via SMTP OVH)
 * **Suivi Financier :** Dashboard des revenus, suivi des achats matériels et calcul du chiffre d'affaires
 * **Expérience Mobile :** Application Progressive Web App (PWA) pour une utilisation native sur mobile et tablette
 
